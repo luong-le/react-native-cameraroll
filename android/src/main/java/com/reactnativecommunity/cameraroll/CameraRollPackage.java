@@ -1,4 +1,3 @@
-
 package com.reactnativecommunity.cameraroll;
 
 import java.util.Arrays;
